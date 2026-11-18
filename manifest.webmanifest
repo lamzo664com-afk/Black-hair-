@@ -1,0 +1,11 @@
+{
+  "name": "BLACK HAIR - Gestion du salon",
+  "short_name": "BLACK HAIR",
+  "description": "Comptabilité et gestion d'un salon de coiffure",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#111111",
+  "lang": "fr",
+  "icons": []
+}
